@@ -1,5 +1,7 @@
 # atmos_cluster
 
+**Archived. Development continues at <https://github.com/yuygfgg/salsa>**
+
 Perceptual object clustering for DAMF masters.
 
 ## Install
